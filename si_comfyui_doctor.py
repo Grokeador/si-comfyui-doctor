@@ -184,7 +184,7 @@ Recommended Flags: {' '.join(hw['recommended_flags'])}</pre>
     <div class="brand">SI-ComfyUI-<span>Doctor {APP_VERSION}</span> &bull; Flux &amp; CUDA OOM Rescue Suite</div>
     <span class="badge">SHA-256 Safe Patcher + 1-Click Rollback</span>
   </div>
-  <div class="tabs">{tabs_html}</div>
+  <div class="tabs">{tab_html}</div>
   {banner_html}
   {content}
 </body></html>"""
